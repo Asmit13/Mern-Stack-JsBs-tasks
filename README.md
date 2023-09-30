@@ -1,3 +1,2 @@
-# Mern-Stack-JsBs-tasks
-
-Name:- Asmit Aditya Singh
+# MERN-Stack
+ETHNUS MERN Stack Task ( HTML, CSS, JavaScript and Bootstrap )
